@@ -36,7 +36,7 @@ I am a frontend developer who is passionated working with techs like, HTML5,CSS3
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mesfint&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mesfint&hide=css,javascript,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mesfint&hide=css,javaScript,html&theme=tokyonight">
 </p>
 
 </details>
