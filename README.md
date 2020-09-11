@@ -1,5 +1,4 @@
 
-![example](https://github.com/mesfint/mesfint/blob/master/MesfinTegegne.png)
 
 ### Hi I am Mesfin 👋
 
