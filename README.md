@@ -1,6 +1,6 @@
 
 
-### Hi I am Mesfin 👋
+### Hi I am 👨 Mesfin 
 
 <!--
 **mesfint/mesfint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am a frontend developer who is passionated working with techs like, HTML5,CSS3 JS and React. I am actively looking for opportunities in frontend/web developer. 
-- 👨🏽‍ At the moment learining an upgrading my skillset in deep learning of data structure and algorithms.
+- 🏽‍ At the moment learining an upgrading my skillset in deep learning of data structure and algorithms.
 - 👯 I’m looking to collaborate on opensource projects 
 - 🔭 Looking for opportunities to join as an intern/full time in deep learning fields.
  - 💻 Visit my [porfolio website](https://mesfint.com) for complete background and contact.
