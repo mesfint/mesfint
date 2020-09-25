@@ -1,6 +1,6 @@
 
 
-### Hi I am 👨 Mesfin 
+
 [<img src ="https://github.com/mesfint/mesfint/blob/master/mesfintHeader.png">](https://mesfint.com)
 
 <!--
