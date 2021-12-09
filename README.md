@@ -1,7 +1,7 @@
 
 
 
-[<img src ="https://github.com/mesfint/mesfint/blob/master/Black20Technology20LinkedIn%20Banner.png">](https://mesfint.com)
+[<img src ="https://github.com/mesfint/mesfint/blob/master/Black%20Technology%20LinkedIn%20Banner.png">](https://mesfint.com)
 
 <!--
 **mesfint/mesfint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
