@@ -1,70 +1,19 @@
+<h1 align="center">Hi 👋, I'm Mesfin</h1>
+<h3 align="center">Frontend developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mesfint&label=Profile%20views&color=0e75b6&style=flat" alt="mesfint" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mesfint" alt="mesfint" /></a> </p>
 
-[<img src ="https://github.com/mesfint/mesfint/blob/master/Black%20Technology%20LinkedIn%20Banner.png">](https://mesfint.com)
-
-<!--
-**mesfint/mesfint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hello, 
-I am glad that you shown some Interest to see my work done and the technologies I am working on.
-
-
-At the moment I am in training of fullstack development programm at integrify.io. The programm Includes frontend,backend,devops and cloud services.
-#### Programming languages / Frontend
-  - TypeScript  
-  - JavaSCript
-  - Redux
-  - ReactJs
-#### Programming languages / Backend
-     - TypeScript  
-      - JavaSCript
-       - NodeJs
-     - ExpressJs
-  #### Database
-      -MongoDB
-      -PostgreSQL
-  ### API design
-      -REST API
-  #### Testing / Unit & Integration
-      -Jest
-
- In the backend side - nodeJs, express, mongodb, Jest, learining an upgrading my skillset in deep learning of data structure and algorithms.
-- 👯 I’m looking to collaborate on opensource projects 
-- 🔭 Looking for opportunities to join as an intern/full time in deep learning fields.
- - 💻 Visit my [porfolio website](https://mesfint.com) for complete background and contact.
-
-<summary>🤝 <b>💬 To contact me</b></summary>
-
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://mesfint.com)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/MesfinTe) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mesfin/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/mesfint2020/)
-
-<details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
-
-<br>
-
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=mesfint&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mesfint&show=React,Typescript,JavaScript,html&theme=tokyonight">
-
-
-
- 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mesfinte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mesfinte" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mesfin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mesfin" height="30" width="40" /></a>
 </p>
 
-</details>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mesfint&show_icons=true&locale=en&layout=compact" alt="mesfint" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mesfint&show_icons=true&locale=en" alt="mesfint" /></p>
