@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am a frontend developer who is passionated working with techs like, HTML5,CSS3 JS and React. I am actively looking for opportunities in frontend/web developer. 
-- 🏽‍ At the moment learining an upgrading my skillset in deep learning of data structure and algorithms.
+- 🏽‍ At the moment I am in training of fullstack development at integrify.io. The stacks that I am working on th front end side are
+- React
+- Typescript
+- Redux etc..
+ In the backend side - nodeJs, express, mongodb, Jest, learining an upgrading my skillset in deep learning of data structure and algorithms.
 - 👯 I’m looking to collaborate on opensource projects 
 - 🔭 Looking for opportunities to join as an intern/full time in deep learning fields.
  - 💻 Visit my [porfolio website](https://mesfint.com) for complete background and contact.
