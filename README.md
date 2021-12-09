@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, I am glad that you shown some Interest to see my work.I am a frontend developer with essential skillsets and experience. 
+#### Hello, 
+I am glad that you shown some Interest to see my work done and the technologies I am working on.
+
 
 At the moment I am in training of fullstack development programm at integrify.io. The programm Includes frontend,backend,devops and cloud services.
 stacks that I am working on th front end side are
