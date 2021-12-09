@@ -17,14 +17,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Hello, 
+### Hello, 
 I am glad that you shown some Interest to see my work done and the technologies I am working on.
 
 
 At the moment I am in training of fullstack development programm at integrify.io. The programm Includes frontend,backend,devops and cloud services.
-### Programming languages / Frontend
-  - TypeScript   -React Js
-  - JavaSCript   -Redux
+#### Programming languages / Frontend
+  - TypeScript  
+  - JavaSCript
+  - Redux
+  - ReactJs
+#### Programming languages / Backend
+     - TypeScript  
+      - JavaSCript
+       - NodeJs
+     - ExpressJs
+  #### Database
+      -MongoDB
+      -PostgreSQL
+  ### API design
+      -REST API
+  #### Testing / Unit & Integration
+      -Jest
 
  In the backend side - nodeJs, express, mongodb, Jest, learining an upgrading my skillset in deep learning of data structure and algorithms.
 - 👯 I’m looking to collaborate on opensource projects 
