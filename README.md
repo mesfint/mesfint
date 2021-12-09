@@ -39,7 +39,8 @@ I am a frontend developer who is passionated working with techs like, HTML5,CSS3
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mesfint&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mesfint&show=reactjs,typescript,javaScript,html&theme=tokyonight">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesfint&layout=compact)](https://github.com/mesfint/github-readme-stats)
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mesfint&layout=compact)](https://github.com/mesfint/github-readme-stats">
+  
 
  
 </p>
