@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a frontend developer who is passionated working with techs like, HTML5,CSS3 JS and React. I am actively looking for opportunities in frontend/web developer. 
-- 🏽‍ At the moment I am in training of fullstack development at integrify.io. The stacks that I am working on th front end side are
+Hello, I am glad that you shown some Interest to see my work.I am a frontend developer with essential skillsets and experience. 
+
+At the moment I am in training of fullstack development programm at integrify.io. The programm Includes frontend,backend,devops and cloud services.
+stacks that I am working on th front end side are
 - React
 - Typescript
 - Redux etc..
