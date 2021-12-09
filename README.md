@@ -22,10 +22,10 @@ I am glad that you shown some Interest to see my work done and the technologies 
 
 
 At the moment I am in training of fullstack development programm at integrify.io. The programm Includes frontend,backend,devops and cloud services.
-stacks that I am working on th front end side are
-- React
-- Typescript
-- Redux etc..
+### Programming languages / Frontend
+  - TypeScript   -React Js
+  - JavaSCript   -Redux
+
  In the backend side - nodeJs, express, mongodb, Jest, learining an upgrading my skillset in deep learning of data structure and algorithms.
 - 👯 I’m looking to collaborate on opensource projects 
 - 🔭 Looking for opportunities to join as an intern/full time in deep learning fields.
