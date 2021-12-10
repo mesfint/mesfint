@@ -9,7 +9,7 @@
 <h5 align="center">I’m currently In fullstack training program , In this program I have already developed the following projects  </h5>
 <p align="center">
  <a href="LINK_TO_REPO">
-    <img src="IMAGE_PATH_INSIDE_REPO" alt="Logo" width="80" height="80">
+    <img src="https://github.com/mesfint/mesfint/blob/master/acssebility-static-site.png" alt="Logo" width="80" height="80">
   </a>
   
   - and  more projects are to come... 
