@@ -13,7 +13,7 @@
   - Consuming my own REST API and develope a full stack book library app
   - more projects are to come...
 </ul>
-
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 <h6 align="center">To contact  me please feel free to use one of these social networks:</h6>
 <p align="center">
