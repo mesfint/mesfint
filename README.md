@@ -6,16 +6,16 @@
 
 <p align="center"> <a href="https://twitter.com/mesfinte" target="blank"><img src="https://img.shields.io/twitter/follow/mesfinte?logo=twitter&style=for-the-badge" alt="mesfinte" /></a> </p>
 
-<h3 align="center">I’m currently working on fullstack training , In this training </h3>
-<ul align="center" list-style="none">
-  -🌱 I develope frontend projects
-  -REST API
+<h5 align="center">I’m currently working on fullstack training , In this training </h5>
+<ul align="center">
+  - 🌱 I develope frontend projects
+  - REST API
   - Consuming my own REST API and develope a full stack book library app
-    -more projects are to come...
+  - more projects are to come...
 </ul>
 
 
-<h3 align="center">To contact  me please feel free to use one of these social networks:</h3>
+<h6 align="center">To contact  me please feel free to use one of these social networks:</h6>
 <p align="center">
 <a href="https://twitter.com/mesfinte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mesfinte" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mesfin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mesfin" height="30" width="40" /></a>
