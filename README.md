@@ -6,10 +6,10 @@
 
 <p align="center"> <a href="https://twitter.com/mesfinte" target="blank"><img src="https://img.shields.io/twitter/follow/mesfinte?logo=twitter&style=for-the-badge" alt="mesfinte" /></a> </p>
 
-<h5 align="center">I’m currently working on fullstack training , In this training </h5>
+<h5 align="center">I’m currently In fullstack training program , In this program I have already  </h5>
 <ul align="center">
-  <h6>I develope frontend projects</h6>
-  - REST API
+  ##### develope frontend projects
+  <h6>REST API
   - Consuming my own REST API and develope a full stack book library app
   - more projects are to come...
 </ul>
