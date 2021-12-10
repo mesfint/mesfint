@@ -10,7 +10,7 @@
 <p align="center">
   -develope frontend projects 
   <br />
-  -**REST API** 
+  -REST API
  
    <br />
   - Consuming my own REST API and develope a full stack book library app
