@@ -6,15 +6,12 @@
 
 <p align="center"> <a href="https://twitter.com/mesfinte" target="blank"><img src="https://img.shields.io/twitter/follow/mesfinte?logo=twitter&style=for-the-badge" alt="mesfinte" /></a> </p>
 
-<h5 align="center">I’m currently In fullstack training program , In this program I have already  </h5>
+<h5 align="center">I’m currently In fullstack training program , In this program I have already developed the following projects  </h5>
 <p align="center">
-  -develope frontend projects 
-  <br />
-  -REST API
- 
-   <br />
-  - Consuming my own REST API and develope a full stack book library app
-   <br />
+ <a href="LINK_TO_REPO">
+    <img src="IMAGE_PATH_INSIDE_REPO" alt="Logo" width="80" height="80">
+  </a>
+  
   - and  more projects are to come... 
 </p>
 <hr />
