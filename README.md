@@ -18,7 +18,7 @@ https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&l
 <h6 align="center">To contact  me please feel free to use one of these social networks:</h6>
 <p align="center">
 <a href="https://twitter.com/mesfinte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mesfinte" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mesfin" target="blank"><img align="center" border="1px solid red" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mesfin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mesfin" target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mesfin" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools I am  using at the moment:</h3>
