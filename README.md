@@ -7,7 +7,7 @@
 <p align="center"> <a href="https://twitter.com/mesfinte" target="blank"><img src="https://img.shields.io/twitter/follow/mesfinte?logo=twitter&style=for-the-badge" alt="mesfinte" /></a> </p>
 
 <h5 align="center">I’m currently In fullstack training program , In this program I have already  </h5>
-<div align="center">
+<p align="center">
   -develope frontend projects 
   <br />
   - **REST API** 
@@ -16,7 +16,7 @@
   - Consuming my own REST API and develope a full stack book library app
    <br />
   - and  more projects are to come... 
-</div>
+</p>
 <hr />
 
 <h6 align="center">To contact  me please feel free to use one of these social networks:</h6>
