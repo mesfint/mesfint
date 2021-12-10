@@ -24,8 +24,8 @@
 
 <h6 align="center">To contact  me please feel free to use one of these social networks:</h6>
 
-<p align="center"> <a href="https://linkedin.com/in/mesfin" target="blank">
- <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align="center"> <a href="https://twitter.com/in/mesfinte" target="blank">
+ <img src="https://img.shields.io/badge/twitter%20-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
  </a>
 
  <a href="https://linkedin.com/in/mesfin" target="blank">
