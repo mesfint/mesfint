@@ -18,7 +18,7 @@
     <img src="https://github.com/mesfint/mesfint/blob/master/country-data-edited.png" alt="Logo" width="240" height="200">
   </a>
   
-  - and  more projects are to come... 
+  > and  more projects are to come... 
 </p>
 <hr />
 
