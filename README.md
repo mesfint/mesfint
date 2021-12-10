@@ -7,12 +7,12 @@
 <p align="center"> <a href="https://twitter.com/mesfinte" target="blank"><img src="https://img.shields.io/twitter/follow/mesfinte?logo=twitter&style=for-the-badge" alt="mesfinte" /></a> </p>
 
 <h5 align="center">I’m currently In fullstack training program , In this program I have already developed the following projects  </h5>
-<p align="center">
+<p align="left">
  <a href="https://sass-accessibility-site.netlify.app/">
     <img src="https://github.com/mesfint/mesfint/blob/master/acssebility-static-site.png" alt="Logo" width="80" height="80">
   </a>
  </p>
- <p>
+ <p align="right">
   <a href="https://react-redux-typescript-project.netlify.app/">
     <img src="https://github.com/mesfint/mesfint/blob/master/country-data.png" alt="Logo" width="80" height="80">
   </a>
