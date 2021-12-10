@@ -10,11 +10,11 @@
 <div align="center">
   -develope frontend projects 
   <br />
-  -REST API 
+  - REST API 
    <br />
-  -Consuming my own REST API and develope a full stack book library app
+  - Consuming my own REST API and develope a full stack book library app
    <br />
-  -and  more projects are to come... 
+  - and  more projects are to come... 
 </div>
 <hr />
 
