@@ -27,9 +27,8 @@
 <p align="center"> <a href="https://linkedin.com/in/mesfin" target="blank">
  <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
- 
-</p>
-<p align="center"> <a href="https://linkedin.com/in/mesfin" target="blank">
+
+ <a href="https://linkedin.com/in/mesfin" target="blank">
  <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
  
