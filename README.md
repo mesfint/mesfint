@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi there 👋, I'm Mesfin</h1>
-<h3 align="center"> I'm a Frontend developer</h3>
+<h3 align="center"> Frontend developer</h3>
 
 <p align="center"> <a href="https://twitter.com/mesfinte" target="blank"><img src="https://img.shields.io/twitter/follow/mesfinte?logo=twitter&style=for-the-badge" alt="mesfinte" /></a> </p>
 
