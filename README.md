@@ -9,7 +9,7 @@
 <h5 align="center">I’m currently In fullstack training program , In this program I have already developed the following projects  </h5>
 <p align="center">
  <a href="https://sass-accessibility-site.netlify.app/">
-    <img src="https://github.com/mesfint/mesfint/blob/master/acssebility-static-site-edited.png" alt="Logo" width="220" height="180">
+    <img src="https://github.com/mesfint/mesfint/blob/master/acssebility-static-site-edited.png" alt="Logo" width="240" height="200">
   </a>
 
 
