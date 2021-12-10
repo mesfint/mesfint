@@ -15,7 +15,7 @@
 
 
   <a href="https://react-redux-typescript-project.netlify.app/">
-    <img src="https://github.com/mesfint/mesfint/blob/master/country-data.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/mesfint/mesfint/blob/master/country-data-edited.png" alt="Logo" width="240" height="200">
   </a>
   
   - and  more projects are to come... 
