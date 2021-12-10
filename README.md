@@ -8,10 +8,10 @@
 
 <h5 align="center">I’m currently In fullstack training program , In this program I have already  </h5>
 <div align="center">
-  - develope frontend projects 
-  - REST API 
-  - Consuming my own REST API and develope a full stack book library app
-  - and  more projects are to come... 
+  -develope frontend projects 
+  -REST API 
+  -Consuming my own REST API and develope a full stack book library app
+  -and  more projects are to come... 
 </div>
 <hr />
 
