@@ -28,6 +28,11 @@
  </a>
  
 </p>
+<p align="center"> <a href="https://linkedin.com/in/mesfin" target="blank">
+ <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+ </a>
+ 
+</p>
 
 <h3 align="center">Languages and Tools I am  using at the moment:</h3>
 <hr />
