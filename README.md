@@ -7,7 +7,7 @@
 <p align="center"> <a href="https://twitter.com/mesfinte" target="blank"><img src="https://img.shields.io/twitter/follow/mesfinte?logo=twitter&style=for-the-badge" alt="mesfinte" /></a> </p>
 
 <h3 align="center">I’m currently working on fullstack training , In this training </h3>
-<ul align="center">
+<ul align="center" listStyle="none">
   <li>🌱 I develope frontend projects</li>
    <li>REST API </li>
    <li>🌱  Consuming my own REST API and develope a full stack book library app</li>
