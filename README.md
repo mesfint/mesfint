@@ -8,10 +8,10 @@
 
 <h3 align="center">I’m currently working on fullstack training , In this training </h3>
 <ul align="center" list-style="none">
-  <li>🌱 I develope frontend projects</li>
-   <li>REST API </li>
-   <li>🌱  Consuming my own REST API and develope a full stack book library app</li>
-   <li>🌱 more projects are to come...</li>
+  -🌱 I develope frontend projects
+  -REST API
+  - Consuming my own REST API and develope a full stack book library app
+    -more projects are to come...
 </ul>
 
 
