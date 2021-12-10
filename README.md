@@ -11,6 +11,7 @@
   -develope frontend projects 
   <br />
   - **REST API** 
+  Bold - **Text** 
    <br />
   - Consuming my own REST API and develope a full stack book library app
    <br />
