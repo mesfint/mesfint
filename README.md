@@ -18,11 +18,11 @@
     <img src="https://github.com/mesfint/mesfint/blob/master/country-data-edited.png" alt="Logo" width="240" height="200">
   </a>
   
-  <p align="center"> and  more projects are on their way... </p>
+  <h5 align="center"> and  more projects are on their way... </h5>
 </p>
 <hr />
 
-<h6 align="center">To contact  me please feel free to use one of these social networks:</h6>
+<h5 align="center">To contact  me please feel free to use one of these social networks:</h5>
 
 <p align="center"> <a href="https://twitter.com/MesfinTe" target="blank">
  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
