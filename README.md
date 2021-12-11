@@ -43,7 +43,7 @@
    <hr />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesfint)](https://github.com/mesfint/github-readme-stats)
+<p><img align="left" src=https://github-readme-stats.vercel.app/api/top-langs/?username=mesfint&hide=shell&layout=compact&langs_count=8 alt="mesfint" width="370" height="300" /></p>
 
  
 
