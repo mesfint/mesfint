@@ -1,4 +1,4 @@
-
+<!--
 
 
 <h1 align="center">Hi there 👋, I'm Mesfin</h1>
@@ -51,4 +51,41 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mesfint&show_icons=true&locale=en" alt="mesfint" width="370" height="300" /></p>
 
+-->
+# Hi there, I'm Mesfin! 👋
+
+I'm a Fullstack Developer and Data Analyst with a passion for building impactful projects and analyzing data to drive decisions.
+
+## 🚀 About Me
+- 🌱 I’m currently learning **Machine Learning**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **JavaScript, Python, React, Node.js, SQL, Data Analysis**
+- 📫 How to reach me: [Email](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile)
+
+## 🛠️ Technologies & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
+## 🔥 Projects
+Here are a few of my standout projects:
+
+### [Project Name](https://github.com/mesfint/project-name)
+![Project Screenshot](https://github.com/mesfint/project-name/raw/main/screenshot.png)
+Description of the project.
+
+### [Another Project](https://github.com/mesfint/another-project)
+![Project Screenshot](https://github.com/mesfint/another-project/raw/main/screenshot.png)
+Description of the project.
+
+## 📈 GitHub Stats
+![Mesfin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mesfint&show_icons=true&theme=radical)
+
+## 📫 Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourprofile)
 
