@@ -6,7 +6,7 @@ I'm a Fullstack Developer and Data Analyst with a passion for building impactful
 - 🌱 I’m currently learning **Machine Learning**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, Python, React, Node.js, SQL, Data Analysis**
-- 📫 How to reach me: [Email](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 📫 How to reach me: [Email](mailto:mesfintdev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mesfin/)
 
 ## 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
