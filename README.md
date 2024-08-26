@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in build
 ## 🚀 My Portfolio
 
 Check out my portfolio to see some of the projects I've worked on:
-![Portfolio Screenshot](https://github.com/mesfint/mesfint/blob/main/assets/portfolio-screenshot.png)
+![Portfolio Screenshot](https://github.com/mesfint/mesfint/blob/master/homePage-screen.png)
 
 You can visit my live portfolio here: [mesfin-portfolio](https://mesfint-portfolio2.web.app/)
 
