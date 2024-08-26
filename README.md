@@ -27,14 +27,7 @@ You can visit my live portfolio here: [mesfin-portfolio](https://mesfint-portfol
   [Live Demo](https://booklibrary.demo) | [Code](https://github.com/mesfint/booklibrary)
 
 
-## 📈 GitHub Stats
 
-![Mesfint's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mesfint&show_icons=true&theme=radical)
-
-## 📫 Let's Connect
-
-- **LinkedIn**: [Mesfint](https://linkedin.com/in/mesfint)
-- **Twitter**: [@mesfint_dev](https://twitter.com/mesfint_dev)
 
 
 ## 📈 GitHub Stats
