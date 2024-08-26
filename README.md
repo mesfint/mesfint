@@ -10,12 +10,32 @@ Check out my portfolio to see some of the projects I've worked on:
 You can visit my live portfolio here: [mesfin-portfolio](https://mesfint-portfolio2.web.app/)
 
 ## 🔧 Technologies & Tools
-- JavaScript
-- Typescript
-- ReactJs
-- NodeJs
-- ExpressJs
-- MongoDB
+
+- **Languages**: JavaScript, TypeScript, Python,SQL
+- **Frameworks**: React, Node.js, Express.js, MongoDB
+
+ 
+
+## 🌟 Projects
+
+- **Country API**  
+  A web project listing countries from an API.  
+  [Live Demo](https://responsive-countries-rest-api.netlify.app/) | [Code](https://github.com/mesfint/frontend-challenges/tree/main/rest-countries-api)
+
+- **Book Library**  
+  A MERN application for managing book borrowings.  
+  [Live Demo](https://booklibrary.demo) | [Code](https://github.com/mesfint/booklibrary)
+
+
+## 📈 GitHub Stats
+
+![Mesfint's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mesfint&show_icons=true&theme=radical)
+
+## 📫 Let's Connect
+
+- **LinkedIn**: [Mesfint](https://linkedin.com/in/mesfint)
+- **Twitter**: [@mesfint_dev](https://twitter.com/mesfint_dev)
+
 
 ## 📈 GitHub Stats
 
