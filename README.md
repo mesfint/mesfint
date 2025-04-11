@@ -1,40 +1,71 @@
-# Hi there, I'm Mesfin 👋
+# 👨‍💻 **Mesfin T.**
 
-Welcome to my GitHub profile! I'm a passionate developer with expertise in building web applications.
+**Frontend Developer | React.js | TypeScript Specialist | Crafting Beautiful & Responsive Web Experiences**  
+_"Transforming UI designs into pixel-perfect, performant reality"_
 
-## 🚀 My Portfolio
+---
 
-Check out my portfolio to see some of the projects I've worked on:
-![Portfolio Screenshot](https://github.com/mesfint/mesfint/blob/master/homePage-screen.png)
+## 🎨 **Featured Projects**
 
-You can visit my live portfolio here: [mesfin-portfolio](https://mesfint-portfolio2.web.app/)
+### 🍽️ **Monadi Ravintola** (Microfrontend Architecture)
 
-## 🔧 Technologies & Tools
+**"A modular restaurant management system built for scale"**  
+![Monadi Preview](https://github.com/mesfint/monadiravintola/blob/main/Desktop-monadi-restaurant.png)
 
-- **Languages**: JavaScript, TypeScript, Python,SQL
-- **Frameworks**: React, Node.js, Express.js, MongoDB
+**✨ Frontend Stack:**
 
- 
+- React 18 + TypeScript (Strict mode)
+- Webpack 5 Module Federation
+- Material-UI v5 with custom theme
+- Microfrontend architecture (Independent deployment)
 
-## 🌟 Projects
+**🚀 Key Achievements:**  
+✅ Implemented shared dependency management  
+✅ Achieved sub-1s lazy-loaded microapps  
+✅ Custom design system with MUI theming  
+🔗 _Demo Coming Soon_ | 📂 [Code](https://github.com/mesfint/monadiravintola)
 
-- **Country API**  
-  A web project listing countries from an API.  
-  [Live Demo](https://responsive-countries-rest-api.netlify.app/) | [Code](https://github.com/mesfint/frontend-challenges/tree/main/rest-countries-api)
+---
 
-- **Book Library**  
-  A MERN application for managing book borrowings.  
-  [Live Demo](https://booklibrary.demo) | [Code](https://github.com/mesfint/booklibrary)
+### 🌍 **Country API Explorer**
 
+**"Interactive geographic data visualization"**  
+**🛠️ Stack:** React, TypeScript, Redux Toolkit, MUI  
+**🔗 Live:** [Explore Now](https://responsive-countries-rest-api.netlify.app/)
 
+---
 
+### 📱 **PhoneBook Pro**
 
+**"Modern contact management with offline-first design"**  
+**🛠️ Stack:** React, Context API, Express, MongoDB  
+**🔗 Live:** [Try Demo](https://booklibrary.demo)
 
-## 📈 GitHub Stats
+---
 
-![Mesfint's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mesfint&show_icons=true&theme=radical)
+### 🎯 **Task Master**
 
-## 📫 How to reach me
+**"Keyboard-friendly productivity app"**  
+**🛠️ Stack:** React + TypeScript, MUI, Jest/RTL  
+**🌟 Highlights:**
 
-- Email: [Contact Me](https://mesfint-portfolio2.web.app/)
-- LinkedIn: [Mesfint LinkedIn](https://www.linkedin.com/in/mesfin/)
+- 100% test coverage
+- WCAG 2.1 compliant
+
+---
+
+## 💻 **Frontend Expertise**
+
+```bash
+# Core
+React.js (Hooks + Context)  |  TypeScript  |  Microfrontends
+
+# Styling
+CSS-in-JS  |  Tailwind  |  MUI  |  Responsive Design
+
+# Performance
+Code Splitting  |  Lazy Loading  |  Bundle Optimization
+
+# Testing
+Jest  |  React Testing Library  |  Cypress
+```
