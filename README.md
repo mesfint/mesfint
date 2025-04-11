@@ -1,6 +1,6 @@
 # 👨‍💻 Hi there, I'm Mesfin 👋
 
-### Frontend Developer | React.js | TypeScript Specialist | Crafting Beautiful & Responsive Web Experiences
+Frontend Developer | React.js | TypeScript Specialist | Crafting Beautiful & Responsive Web Experiences
 
 ## Welcome to my GitHub profile!
 
