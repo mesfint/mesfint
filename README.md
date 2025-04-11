@@ -1,142 +1,34 @@
-# 👨‍💻 Mesfin T. | Full-Stack Developer
+# Hi there, I'm Mesfin 👋
 
-_"Building scalable apps with a side of pixel-perfect UI"_
+Welcome to my GitHub profile! I'm a passionate developer with expertise in building web applications.
 
----
+## 🚀 My Portfolio
 
-## 🌟 **Featured Projects**
+Check out my portfolio to see some of the projects I've worked on:
+![Portfolio Screenshot](https://github.com/mesfint/mesfint/blob/master/homePage-screen.png)
 
-### 🍽️ **Monadi Ravintola** (Microfrontend Showcase)
+You can visit my live portfolio here: [mesfin-portfolio](https://mesfint-portfolio2.web.app/)
 
-**"A restaurant management system served microfrontend style!"**  
-![Monadi Preview](https://github.com/mesfint/monadiravintola/blob/main/Desktop-monadi-restaurant.png)
+## 🔧 Technologies & Tools
 
-**🔧 Stack:**
+- **Languages**: JavaScript, TypeScript, Python,SQL
+- **Frameworks**: React, Node.js, Express.js, MongoDB
 
-- React + TypeScript (Core UI)
-- Webpack 5 Module Federation (Magic glue)
-- Material-UI (Design system)
-- Microfrontend Architecture (Independent deployable modules)
+## 🌟 Projects
 
-**✨ Key Features:**  
-✅ Multi-team collaboration enabled  
-✅ Shared dependency management  
-✅ Seamless feature integration  
-🔗 _Live Demo Coming Soon!_ | 📂 [Code](https://github.com/mesfint/monadiravintola)
+- **Country API**  
+  A web project listing countries from an API.  
+  [Live Demo](https://responsive-countries-rest-api.netlify.app/) | [Code](https://github.com/mesfint/frontend-challenges/tree/main/rest-countries-api)
 
----
-
-### 🌍 **Country API Explorer**
-
-**"Like Google Maps, but for API enthusiasts"**  
-**🔧 Stack:** React, Redux, TypeScript, Material-UI  
-**🚀 Live Demo:** [Explore Countries](https://responsive-countries-rest-api.netlify.app/)
-
----
-
-### 📱 **PhoneBook Pro**
-
-**"Your contacts deserve better than Excel"**  
-**🔧 Stack:** MERN Stack (React, Express, MongoDB)  
-**🚀 Live Demo:** [Manage Contacts](https://booklibrary.demo)
-
----
-
-### ✅ **Task Master**
-
-**"CRUD operations never looked this good"**  
-**🔧 Stack:** React, TypeScript, MUI, Jest/RTL  
-**🚀 Live Demo:** _Launching Soon!_
-
----
-
-## 🛠️ **Technical Toolbox**
-
-````bash
-# Frontend
-React ⚛️ | TypeScript 🔵 | Microfrontends 🧩 | Redux 🎮 | Tailwind 🌊
-
-# Backend
-Node.js 🟢 | Express 🚀 | MongoDB 🍃 | REST APIs 📡
-
-# DevOps & Testing
-Webpack 📦 | Jest 🧪 | Docker 🐳 | CI/CD 🔄
+- **Book Library**  
+  A MERN application for managing book borrowings.  
+  [Live Demo](https://booklibrary.demo) | [Code](https://github.com/mesfint/booklibrary)
 
 ## 📈 GitHub Stats
 
 ![Mesfint's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mesfint&show_icons=true&theme=radical)
 
+## 📫 How to reach me
 
-
-<!-- # 👨‍💻 **Mesfin T.**
-
-**Frontend Developer | React.js | TypeScript Specialist | Crafting Beautiful & Responsive Web Experiences**
-_"Transforming UI designs into pixel-perfect, performant reality"_
-
----
-
-## 🎨 **Featured Projects**
-
-### 🍽️ **Monadi Ravintola** (Microfrontend Architecture)
-
-**"A modular restaurant management system built for scale"**
-![Monadi Preview](https://github.com/mesfint/monadiravintola/blob/main/Desktop-monadi-restaurant.png)
-
-**✨ Frontend Stack:**
-
-- React 18 + TypeScript (Strict mode)
-- Webpack 5 Module Federation
-- Material-UI v5 with custom theme
-- Microfrontend architecture (Independent deployment)
-
-**🚀 Key Achievements:**
-✅ Implemented shared dependency management
-✅ Achieved sub-1s lazy-loaded microapps
-✅ Custom design system with MUI theming
-🔗 _Demo Coming Soon_ | 📂 [Code](https://github.com/mesfint/monadiravintola)
-
----
-
-### 🌍 **Country API Explorer**
-
-**"Interactive geographic data visualization"**
-**🛠️ Stack:** React, TypeScript, Redux Toolkit, MUI
-**🔗 Live:** [Explore Now](https://responsive-countries-rest-api.netlify.app/)
-
----
-
-### 📱 **PhoneBook Pro**
-
-**"Modern contact management with offline-first design"**
-**🛠️ Stack:** React, Context API, Express, MongoDB
-**🔗 Live:** [Try Demo](https://booklibrary.demo)
-
----
-
-### 🎯 **Task Master**
-
-**"Keyboard-friendly productivity app"**
-**🛠️ Stack:** React + TypeScript, MUI, Jest/RTL
-**🌟 Highlights:**
-
-- 100% test coverage
-- WCAG 2.1 compliant
-
----
-
-## 💻 **Frontend Expertise**
-
-```bash
-# Core
-React.js (Hooks + Context)  |  TypeScript  |  Microfrontends
-
-# Styling
-CSS-in-JS  |  Tailwind  |  MUI  |  Responsive Design
-
-# Performance
-Code Splitting  |  Lazy Loading  |  Bundle Optimization
-
-# Testing
-Jest  |  React Testing Library  |  Cypress
-``` -->
-````
+- Email: [Contact Me](https://mesfint-portfolio2.web.app/)
+- LinkedIn: [Mesfint LinkedIn](https://www.linkedin.com/in/mesfin/)
