@@ -7,7 +7,7 @@
 Check out my portfolio to see some of the projects I've worked on:
 ![Portfolio Screenshot](https://github.com/mesfint/mesfint/blob/master/homePage-screen.png)
 
-Live portfolio here: [mesfin-portfolio](https://mesfint-portfolio2.web.app/)
+Live portfolio here: [Portfolio](https://mesfin-zeta.vercel.app/)
 
 ## 🔧 Technologies & Tools
 
