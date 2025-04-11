@@ -55,13 +55,7 @@ Live portfolio here: [Portfolio](https://mesfin-zeta.vercel.app/)
 🔗 _Demo_ | 📂 [vercel](https://moodify-drab.vercel.app/)
 🔗 _Demo Code_ | 📂 [Code](https://github.com/mesfint/moodify)
 
-- **Country API**  
-  A web project listing countries from an API.  
-  [Live Demo](https://responsive-countries-rest-api.netlify.app/) | [Code](https://github.com/mesfint/frontend-challenges/tree/main/rest-countries-api)
-
-- **Book Library**  
-  A MERN application for managing book borrowings.  
-  [Live Demo](https://booklibrary.demo) | [Code](https://github.com/mesfint/booklibrary)
+---
 
 ## 📈 GitHub Stats
 
