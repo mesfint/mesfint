@@ -45,6 +45,8 @@ Live portfolio here: [mesfin-portfolio](https://mesfint-portfolio2.web.app/)
 - LocalStorage: Persists favorites, playlists, and theme preferences across sessions.
 - Husky: Pre-commit hooks to ensure code is formatted and linted before pushing to GitHub.
 
+![Moodify Preview](https://github.com/mesfint/moodify/blob/main/moodify-screen.png)
+
 **🚀 Key Achievements:**  
 ✅ Mobile-First Design Oversight:  
 ✅ Tailwind CSS Learning Curve:  
